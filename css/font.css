@@ -1,0 +1,45 @@
+@font-face {
+     font-family: "Rubik-Bold";
+     src: url("../font/Rubik-Bold.ttf");
+}
+
+@font-face {
+     font-family: "Rubik-Regular";
+     src: url("../font/Rubik-Regular.ttf");
+}
+
+@font-face {
+     font-family: "Nunito-Regular";
+     src: url("../font/Nunito-Regular.ttf");
+}
+
+@font-face {
+     font-family: "Nunito-Bold";
+     src: url("../font/Nunito-Bold.ttf");
+}
+
+@font-face {
+     font-family: "BalooBhaina2-Regular";
+     font-weight: 300;
+     font-style: regular;
+     src: url("../font/BalooBhaina2-Regular.ttf");
+}
+
+@font-face {
+     font-family: "BalooBhaina2-Bold";
+     src: url("../font/BalooBhaina2-Bold.ttf");
+}
+
+@font-face {
+     font-family: "Poppins-Bold";
+     font-style: bold;
+     font-weight: 600;
+     src: url("../font/Poppins-Bold.ttf");
+}
+
+@font-face {
+     font-family: "Poppins-Regular";
+     font-style: regular;
+     font-weight: 300;
+     src: url("../font/Poppins-Regular.ttf");
+}
